@@ -1,2 +1,2 @@
 # IronForge Systems 
-IronForge Systems is a valorian technical organization founded in Volis. This readme will be expanded.
+IronForge Systems is a valorian technical organization. This readme will be expanded.
